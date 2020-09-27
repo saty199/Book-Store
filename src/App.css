@@ -1,0 +1,13 @@
+.card-item{
+    display: flex;
+    justify-content: space-around;
+}
+.card-title{
+    text-align: center;
+}
+.card-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
